@@ -1,0 +1,4 @@
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\Bussiness.dll
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\Bussiness.pdb
+D:\New folder\ashraf\e-commerce\Bussiness\obj\Debug\Bussiness.dll
+D:\New folder\ashraf\e-commerce\Bussiness\obj\Debug\Bussiness.pdb

@@ -1,0 +1,4 @@
+D:\New folder\ashraf\e-commerce\ViewModels\bin\Debug\ViewModels.dll
+D:\New folder\ashraf\e-commerce\ViewModels\bin\Debug\ViewModels.pdb
+D:\New folder\ashraf\e-commerce\ViewModels\obj\Debug\ViewModels.dll
+D:\New folder\ashraf\e-commerce\ViewModels\obj\Debug\ViewModels.pdb
