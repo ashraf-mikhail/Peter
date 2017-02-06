@@ -88,3 +88,11 @@ D:\New folder\ashraf\e-commerce\Service\Service\bin\System.Web.Http.Owin.xml
 D:\New folder\ashraf\e-commerce\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
 D:\New folder\ashraf\e-commerce\Service\Service\obj\Debug\Service.dll
 D:\New folder\ashraf\e-commerce\Service\Service\obj\Debug\Service.pdb
+D:\New folder\ashraf\e-commerce\Service\Service\bin\Bussiness.dll
+D:\New folder\ashraf\e-commerce\Service\Service\bin\DataAccess.dll
+D:\New folder\ashraf\e-commerce\Service\Service\bin\Bussiness.pdb
+D:\New folder\ashraf\e-commerce\Service\Service\bin\DataAccess.pdb
+D:\New folder\ashraf\e-commerce\Service\Service\bin\Domain.dll
+D:\New folder\ashraf\e-commerce\Service\Service\bin\Domain.pdb
+D:\New folder\ashraf\e-commerce\Service\Service\bin\ViewModels.dll
+D:\New folder\ashraf\e-commerce\Service\Service\bin\ViewModels.pdb

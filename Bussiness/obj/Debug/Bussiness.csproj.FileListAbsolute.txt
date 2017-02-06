@@ -2,3 +2,10 @@ D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\Bussiness.dll
 D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\Bussiness.pdb
 D:\New folder\ashraf\e-commerce\Bussiness\obj\Debug\Bussiness.dll
 D:\New folder\ashraf\e-commerce\Bussiness\obj\Debug\Bussiness.pdb
+D:\New folder\ashraf\e-commerce\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\DataAccess.dll
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\DataAccess.pdb
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\Domain.dll
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\Domain.pdb
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\ViewModels.dll
+D:\New folder\ashraf\e-commerce\Bussiness\bin\Debug\ViewModels.pdb
