@@ -4,26 +4,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DataAccess;
+using DataAccess.Interface;
 using Domain;
 
 namespace Bussiness
 {
     public class ProductManager
     {
-        public ProductDataAccess _productDataAccess;
+        private IProductDataAccess _productDataAccess;
 
-        public ProductDataAccess ProductDataAccess
-            => _productDataAccess ?? (_productDataAccess = new ProductDataAccess());
+        //public IProductDataAccess ProductDataAccess
+        //{
+        //    set
+        //    {
+        //        this._productDataAccess = value;
+        //    }
+        //}
 
-        public ProductManager()
+        public ProductManager(IProductDataAccess productDataAccess)
         {
-            
+            _productDataAccess = productDataAccess;
         }
 
 
         public List<Product> GetProducts()
         {
-           return  ProductDataAccess.GetProducts();
+           return _productDataAccess.GetProducts();
         }
     }
 }

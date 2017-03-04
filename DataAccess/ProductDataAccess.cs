@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
+using DataAccess.Interface;
 using Domain;
 
 namespace DataAccess
 {
-    public class ProductDataAccess
+    public class ProductDataAccess : IProductDataAccess
     {
         public List<Product> GetProducts()
         {
