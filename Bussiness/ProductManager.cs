@@ -17,7 +17,7 @@ namespace Bussiness
 
         public ProductManager()
         {
-            ProductDataAccess Aa = new ProductDataAccess();
+            
         }
 
 
