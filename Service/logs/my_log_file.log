@@ -1,0 +1,66 @@
+2017-03-05 21:26:18,999 [1] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;WebHostHttpControllerTypeResolver;GetControllerTypes;
+2017-03-05 21:26:19,093 [1] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;WebHostHttpControllerTypeResolver;GetControllerTypes;
+2017-03-05 21:26:21,281 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Request;;;http://onlineshoptest.com/api/products
+2017-03-05 21:26:21,282 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Request;;;http://onlineshoptest.com/api/products
+2017-03-05 21:26:21,284 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.MessageHandlers;PassiveAuthenticationMessageHandler;SendAsync;
+2017-03-05 21:26:21,287 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.MessageHandlers;PassiveAuthenticationMessageHandler;SendAsync;
+2017-03-05 21:26:21,347 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerSelector;SelectController;Route='controller:products'
+2017-03-05 21:26:21,347 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerSelector;SelectController;Route='controller:products'
+2017-03-05 21:26:21,352 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerSelector;SelectController;Products
+2017-03-05 21:26:21,352 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerSelector;SelectController;Products
+2017-03-05 21:26:21,356 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;HttpControllerDescriptor;CreateController;
+2017-03-05 21:26:21,358 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerActivator;Create;
+2017-03-05 21:26:21,359 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;HttpControllerDescriptor;CreateController;
+2017-03-05 21:26:21,359 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerActivator;Create;
+2017-03-05 21:26:21,368 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerActivator;Create;Service.Controllers.ProductsController
+2017-03-05 21:26:21,369 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;DefaultHttpControllerActivator;Create;Service.Controllers.ProductsController
+2017-03-05 21:26:21,369 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;HttpControllerDescriptor;CreateController;Service.Controllers.ProductsController
+2017-03-05 21:26:21,369 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;HttpControllerDescriptor;CreateController;Service.Controllers.ProductsController
+2017-03-05 21:26:21,372 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;ExecuteAsync;
+2017-03-05 21:26:21,375 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;ExecuteAsync;
+2017-03-05 21:26:21,381 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionSelector;SelectAction;
+2017-03-05 21:26:21,383 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionSelector;SelectAction;
+2017-03-05 21:26:21,467 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionSelector;SelectAction;Selected action 'Get()'
+2017-03-05 21:26:21,471 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionSelector;SelectAction;Selected action 'Get()'
+2017-03-05 21:26:21,506 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;AuthenticateAsync;
+2017-03-05 21:26:21,520 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;AuthenticateAsync;
+2017-03-05 21:26:21,591 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;AuthenticateAsync;The authentication filter did not encounter an error or set a principal.
+2017-03-05 21:26:21,597 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;ChallengeAsync;
+2017-03-05 21:26:21,608 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;AuthenticateAsync;The authentication filter did not encounter an error or set a principal.
+2017-03-05 21:26:21,608 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;ChallengeAsync;
+2017-03-05 21:26:21,609 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;ChallengeAsync;
+2017-03-05 21:26:21,609 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Filters;HostAuthenticationFilter;ChallengeAsync;
+2017-03-05 21:26:21,618 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.ModelBinding;HttpActionBinding;ExecuteBindingAsync;
+2017-03-05 21:26:21,624 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.ModelBinding;HttpActionBinding;ExecuteBindingAsync;
+2017-03-05 21:26:21,624 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.ModelBinding;HttpActionBinding;ExecuteBindingAsync;
+2017-03-05 21:26:21,624 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.ModelBinding;HttpActionBinding;ExecuteBindingAsync;
+2017-03-05 21:26:21,627 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionInvoker;InvokeActionAsync;Action='Get()'
+2017-03-05 21:26:21,627 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionInvoker;InvokeActionAsync;Action='Get()'
+2017-03-05 21:26:21,640 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ReflectedHttpActionDescriptor;ExecuteAsync;Invoking action 'Get()'
+2017-03-05 21:26:21,640 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ReflectedHttpActionDescriptor;ExecuteAsync;Invoking action 'Get()'
+2017-03-05 21:26:21,671 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ReflectedHttpActionDescriptor;ExecuteAsync;Action returned 'System.Collections.Generic.List`1[Domain.Product]'
+2017-03-05 21:26:21,678 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ReflectedHttpActionDescriptor;ExecuteAsync;Action returned 'System.Collections.Generic.List`1[Domain.Product]'
+2017-03-05 21:26:21,680 [5] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;DefaultContentNegotiator;Negotiate;Type='List`1', formatters=[JsonMediaTypeFormatterTracer, XmlMediaTypeFormatterTracer, FormUrlEncodedMediaTypeFormatterTracer, FormUrlEncodedMediaTypeFormatterTracer]
+2017-03-05 21:26:21,680 [18] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;DefaultContentNegotiator;Negotiate;Type='List`1', formatters=[JsonMediaTypeFormatterTracer, XmlMediaTypeFormatterTracer, FormUrlEncodedMediaTypeFormatterTracer, FormUrlEncodedMediaTypeFormatterTracer]
+2017-03-05 21:26:21,764 [5] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;JsonMediaTypeFormatter;GetPerRequestFormatterInstance;Obtaining formatter of type 'JsonMediaTypeFormatter' for type='List`1', mediaType='application/json; charset=utf-8'
+2017-03-05 21:26:21,765 [5] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;JsonMediaTypeFormatter;GetPerRequestFormatterInstance;Will use same 'JsonMediaTypeFormatter' formatter
+2017-03-05 21:26:21,768 [5] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;DefaultContentNegotiator;Negotiate;Selected formatter='JsonMediaTypeFormatter', content-type='application/json; charset=utf-8'
+2017-03-05 21:26:21,776 [18] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;XmlMediaTypeFormatter;GetPerRequestFormatterInstance;Obtaining formatter of type 'XmlMediaTypeFormatter' for type='List`1', mediaType='application/xml; charset=utf-8'
+2017-03-05 21:26:21,776 [18] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;XmlMediaTypeFormatter;GetPerRequestFormatterInstance;Will use same 'XmlMediaTypeFormatter' formatter
+2017-03-05 21:26:21,776 [18] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;DefaultContentNegotiator;Negotiate;Selected formatter='XmlMediaTypeFormatter', content-type='application/xml; charset=utf-8'
+2017-03-05 21:26:21,786 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionInvoker;InvokeActionAsync;
+2017-03-05 21:26:21,787 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;ExecuteAsync;
+2017-03-05 21:26:21,788 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.MessageHandlers;PassiveAuthenticationMessageHandler;SendAsync;
+2017-03-05 21:26:21,791 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Request;;;Content-type='application/json; charset=utf-8', content-length=unknown
+2017-03-05 21:26:21,803 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Action;ApiControllerActionInvoker;InvokeActionAsync;
+2017-03-05 21:26:21,804 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;ExecuteAsync;
+2017-03-05 21:26:21,804 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.MessageHandlers;PassiveAuthenticationMessageHandler;SendAsync;
+2017-03-05 21:26:21,804 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Request;;;Content-type='application/xml; charset=utf-8', content-length=unknown
+2017-03-05 21:26:21,827 [5] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;JsonMediaTypeFormatter;WriteToStreamAsync;Value='System.Collections.Generic.List`1[Domain.Product]', type='List`1', content-type='application/json; charset=utf-8'
+2017-03-05 21:26:21,827 [18] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;XmlMediaTypeFormatter;WriteToStreamAsync;Value='System.Collections.Generic.List`1[Domain.Product]', type='List`1', content-type='application/xml; charset=utf-8'
+2017-03-05 21:26:21,917 [18] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;XmlMediaTypeFormatter;WriteToStreamAsync;
+2017-03-05 21:26:21,959 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;Dispose;
+2017-03-05 21:26:21,959 [18] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;Dispose;
+2017-03-05 21:26:22,532 [5] INFO  Service.Logging.MyProjectTracer - System.Net.Http.Formatting;JsonMediaTypeFormatter;WriteToStreamAsync;
+2017-03-05 21:26:22,532 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;Dispose;
+2017-03-05 21:26:22,532 [5] INFO  Service.Logging.MyProjectTracer - System.Web.Http.Controllers;ProductsController;Dispose;

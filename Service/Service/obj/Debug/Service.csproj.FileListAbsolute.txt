@@ -96,3 +96,5 @@ D:\New folder\ashraf\e-commerce\Service\Service\bin\Domain.dll
 D:\New folder\ashraf\e-commerce\Service\Service\bin\Domain.pdb
 D:\New folder\ashraf\e-commerce\Service\Service\bin\ViewModels.dll
 D:\New folder\ashraf\e-commerce\Service\Service\bin\ViewModels.pdb
+D:\New folder\ashraf\e-commerce\Service\Service\bin\log4net.dll
+D:\New folder\ashraf\e-commerce\Service\Service\bin\log4net.xml
