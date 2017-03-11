@@ -1,7 +1,0 @@
-D:\New folder\ashraf\e-commerce\DataAccess\bin\Debug\DataAccess.dll
-D:\New folder\ashraf\e-commerce\DataAccess\bin\Debug\DataAccess.pdb
-D:\New folder\ashraf\e-commerce\DataAccess\obj\Debug\DataAccess.dll
-D:\New folder\ashraf\e-commerce\DataAccess\obj\Debug\DataAccess.pdb
-D:\New folder\ashraf\e-commerce\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
-D:\New folder\ashraf\e-commerce\DataAccess\bin\Debug\Domain.dll
-D:\New folder\ashraf\e-commerce\DataAccess\bin\Debug\Domain.pdb
