@@ -4,7 +4,7 @@ using Domain;
 
 namespace Bussiness
 {
-    public class ProductManager
+    public class ProductManager : IProductManager
     {
         private IProductDataAccess _productDataAccess;
 
