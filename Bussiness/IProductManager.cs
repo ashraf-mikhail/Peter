@@ -7,7 +7,7 @@ using Domain;
 
 namespace Bussiness
 {
-    interface IProductManager
+    public interface IProductManager
     {
         List<Product> GetProducts();
     }

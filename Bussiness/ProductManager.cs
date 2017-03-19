@@ -8,19 +8,10 @@ namespace Bussiness
     {
         private IProductDataAccess _productDataAccess;
 
-        //public IProductDataAccess ProductDataAccess
-        //{
-        //    set
-        //    {
-        //        this._productDataAccess = value;
-        //    }
-        //}
-
         public ProductManager(IProductDataAccess productDataAccess)
         {
             _productDataAccess = productDataAccess;
         }
-
 
         public List<Product> GetProducts()
         {
