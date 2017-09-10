@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  <product>
+    <Id>1</Id>
+    <Name>Product 1</Name>
+    <Price>45</Price>
+    <ImagePath>../Images/TestPic.jpg</ImagePath>
+  </product>
+<product>
+    <Id>1</Id>
+    <Name>Product 2</Name>
+    <Price>10</Price>
+    <ImagePath>../Images/TestPic.jpg</ImagePath>
+  </product>
+<product>
+    <Id>1</Id>
+    <Name>Product 3</Name>
+    <Price>18</Price>
+    <ImagePath>../Images/TestPic.jpg</ImagePath>
+  </product>
+<product>
+    <Id>1</Id>
+    <Name>Product 4</Name>
+    <Price>15</Price>
+    <ImagePath>../Images/TestPic.jpg</ImagePath>
+  </product>
+<product>
+    <Id>1</Id>
+    <Name>Product 5</Name>
+    <Price>20</Price>
+    <ImagePath>../Images/TestPic.jpg</ImagePath>
+  </product>
+</products>

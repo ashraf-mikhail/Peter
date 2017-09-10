@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Products</title>
+    <meta charset="utf-8" />
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/AppScripts/AngularControllers/ProductsController.js"></script>
+    <script src="Scripts/AppScripts/AngularServices/ApiCallService.js"></script>
+</head>
+<body>
+<h1>Products page</h1>
+
+    <div ng-app="myApp" >
+        <div ng-controller="myCtrl">
+
+            <p>Name: <input type="text" ng-model="Name"></p>
+            <p>You wrote: {{ Name }}</p>
+
+            <table border="1">
+                <tr ng-repeat="product in Products">
+                    <td><img ng-src="{{product.ImagePath}}"></td>
+                    <td>{{product.Name}}</td>
+                    <td>{{product.Price}}</td>
+                </tr>
+            </table>
+
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+
+
+*/logs
+*/bin/
+*/*/bin
+bin/
+*/obj
+*/*/obj
+obj/
+*/logs
+*.suo
